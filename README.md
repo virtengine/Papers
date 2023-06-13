@@ -8,7 +8,7 @@ Explore the Intellectual Property, R&D, and Scientific Papers released by DET-IO
 
 Filing date: 2023-06-08 🤖
 
-### Abstract (DALNet) Provisional Patent 2023901818
+### Abstract (DALNet) 
 
 The Dynamic Autonomous Learning Network (DALNet) represents a groundbreaking Decentralized Autonomous Organization (DAO) that harnesses Language Model Learning (LLM), Visual Artificial Intelligence, adaptive AI learning, and a distributed computing network. This creates a self-reliant, autonomously governed organization that mirrors real-world organizational structures, complete with AI Agents fulfilling specialized roles and reporting to managers and a Managing Director AI Agent. Operating within a GUI-based environment, AI Agents employ LLM capabilities to process language, make decisions, and engage with third-party systems. The DALNet is designed for scalability, adaptability, and the achievement of specific goals set by its initial developers. Efficiency is continually improved through cross-functional AI Agent collaboration, decentralized knowledge repositories, autonomous reputation systems, and dynamic market adaptation mechanisms.
 
@@ -18,7 +18,7 @@ The Dynamic Autonomous Learning Network (DALNet) represents a groundbreaking Dec
 
 Filing date: 2023-05-12 🤖
 
-### Abstract (VirtEngine) Provisional Patent 2023901444
+### Abstract (VirtEngine) 
 
 VirtEngine is a decentralized system introduced in this document for identification, authentication, data encryption, cloud, and distributed computing. The system provides a secure and verifiable method for establishing and verifying the identity of individuals and entities within a blockchain network, as well as protecting and encrypting sensitive data. This makes it particularly useful for applications like online marketplaces, where ensuring participant identities and safeguarding sensitive data is crucial. VirtEngine also empowers a Distributed Computing network and its Cloud Marketplace system, enabling providers to lease computing resources and consumers to utilize computing power through Cloud Services, High Performance Compute, and other integrations.
 
