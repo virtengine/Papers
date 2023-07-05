@@ -2,6 +2,14 @@
 
 Explore the Intellectual Property, R&D, and Scientific Papers released by DET-IO PTY LTD (ACN: 74 614 569 416). Delve into cutting-edge research pursued by DET-IO to shape the future of technology and our world. This repository highlights the expected outcomes and innovations in decentralized systems, artificial intelligence, and blockchain networks.
 
+# [Code of Conduct](https://github.com/virtengine/Papers/blob/main/CODE_OF_CONDUCT.md)
+
+#### Our Pledge:
+
+We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+
+We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+
 ## Provisional Patent 2023901818
 
 [Decentralized Autonomous Networks: Leveraging Blockchain, NLP, and LLM Technologies for Enhanced AI-Agent Communication and Governance](http://pericles.ipaustralia.gov.au/ols/auspat/applicationDetails.do?applicationNo=2023901818)
@@ -29,3 +37,10 @@ Jonathan Philipos
 #### Credits
 
 DET-IO PTY LTD (ACN: 74 614 569 416)
+
+#### [License](https://github.com/virtengine/Papers/blob/main/LICENSE)
+
+Creative Commons Attribution 4.0 International Public License
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
