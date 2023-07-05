@@ -2,7 +2,7 @@
 
 Explore the Intellectual Property, R&D, and Scientific Papers released by DET-IO PTY LTD (ACN: 74 614 569 416). Delve into cutting-edge research pursued by DET-IO to shape the future of technology and our world. This repository highlights the expected outcomes and innovations in decentralized systems, artificial intelligence, and blockchain networks.
 
-# [Code of Conduct](https://github.com/virtengine/Papers/blob/main/CODE_OF_CONDUCT.md)
+## [Code of Conduct](https://github.com/virtengine/Papers/blob/main/CODE_OF_CONDUCT.md)
 
 #### Our Pledge:
 
